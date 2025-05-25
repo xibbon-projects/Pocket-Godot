@@ -20,6 +20,7 @@ config/icon="res://assets/icons/godot_white.png"
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="keep_height"
+window/stretch/scale_mode="fractional"
 window/handheld/orientation=4
 
 [file_customization]
